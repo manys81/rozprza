@@ -1,10 +1,38 @@
+
+Skip to content
+This repository
+
+    Pull requests
+    Issues
+    Gist
+
+    @manys81
+
+0
+0
+
+    0
+
+manys81/rozprza
+Code
+Issues 0
+Pull requests 0
+Projects 0
+Wiki
+Pulse
+Graphs
+Settings
+rozprza/.gitignore
+15ea22d 26 days ago
+@manys81 manys81 init
+111 lines (94 sloc) 2.25 KB
 # -----------------------------------------------------------------
 # .gitignore for WordPress
 # Bare Minimum Git
 # http://ironco.de/bare-minimum-git/
 # ver 20150227
 #
-# This file is tailored for a WordPress project 
+# This file is tailored for a WordPress project
 # using the default directory structure
 #
 # This file specifies intentionally untracked files to ignore
@@ -104,7 +132,13 @@ wp-content/plugins/hello.php
 wp-content/plugins/akismet
 
 # ignore specific themes
-wp-content/themes/twenty*/
+wp-content/themes/twentyfifteen/
+wp-content/themes/twentyfourteen/
 
 # ignore node/grunt dependency directories
 node_modules/
+
+    Contact GitHub API Training Shop Blog About
+
+    © 2016 GitHub, Inc. Terms Privacy Security Status Help
+
